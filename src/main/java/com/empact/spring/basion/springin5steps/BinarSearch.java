@@ -16,8 +16,7 @@ public class BinarSearch {
 		this.sortAlgorithm=sortAlgorithm;
 		// TODO Auto-generated constructor stub
 	}
-
-
+	
 
 	public int binarySearch(int[] numbers, int numberToSearchFor) {
 
